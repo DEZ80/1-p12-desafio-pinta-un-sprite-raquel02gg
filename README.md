@@ -16,5 +16,4 @@ El sprite debe estar más o menos el centro de la pantalla.
 PC: 4000
 
 # IMAGENES
-¡Captura tu sprite y súbelo aquí!
 ![Desafío](sprite.png)
